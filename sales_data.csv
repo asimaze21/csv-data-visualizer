@@ -1,0 +1,16 @@
+Product,Quantity,Price,Category
+Laptop,25,1200,Electronics
+Smartphone,50,800,Electronics
+Headphones,100,150,Electronics
+Office Chair,40,300,Furniture
+Desk,30,450,Furniture
+Monitor,35,400,Electronics
+Printer,20,250,Electronics
+Notebook,200,5,Stationery
+Pen,500,2,Stationery
+Backpack,60,80,Accessories
+Mouse,75,35,Electronics
+Keyboard,60,45,Electronics
+Webcam,30,70,Electronics
+Desk Lamp,50,40,Furniture
+Water Bottle,100,15,Accessories
